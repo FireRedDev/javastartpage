@@ -229,9 +229,16 @@ Advanced JavaScript framework (e.g., Angular, React, VueJS)
 Spring Boot/microservices
 
 ### Repository of this webpage
+This website is built via Github Pages and Markdown.
 
 <https://firereddev.github.io/javastartpage/>
 
+### Repository of OpenJDK
+<https://github.com/openjdk/jdk>
+
+## Disclaimer
+
+This website is just a hobby project to give new java devs a starting point. Java is a registered Trademark of Oracle. I do not own, work at, or develop any of the Software or technology mentioned. Accuracy is not garuanteed. 
 
 
 
