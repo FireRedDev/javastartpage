@@ -4,7 +4,7 @@
 
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have Java installed, and more are created every day. Java is fast, secure, and reliable. From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is everywhere!
 
-Unlike Windows executables (.EXE files) or Macintosh applications (.APP files), Java programs are not run directly by the operating system. Instead, Java programs are interpreted by the Java Virtual Machine, or JVM, which runs on multiple platforms. This means all Java programs are multiplatform and can run on different platforms, including Macintosh, Windows, and Unix computers. Java is either run by .JAR Files, as a bundled JDK or can create native wrappers with GraalVM like .EXE and .APP for each operating system.
+Unlike Windows executables (.EXE files) or Macintosh applications (.APP files), Java programs are not run directly by the operating system. Instead, Java programs are interpreted by the Java Virtual Machine, or JVM, which runs on multiple platforms. This means all Java programs are multiplatform and can run on different platforms, including Macintosh, Windows, and Unix computers. Java is either run by .JAR Files, as a bundled JRE or can create native wrappers with GraalVM like .EXE and .APP for each operating system.
 
 # Is Java free to download?
 Yes, Java is free to download. Get the latest version at java.com.
