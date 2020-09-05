@@ -39,8 +39,11 @@ Development Environment, Tooling Platform and Application Framework.
 <https://www.jetbrains.com/de-de/idea/download/>
 ---
 # Write your first programm 
+
 <https://www.learnjavaonline.org/en/Hello%2C_World%21>
-Hello, World!
+
+
+## Hello, World!
 Java is an object oriented language (OOP). Java objects are part of so-called "Java classes".
 
 Let's go over the Hello world program, which simply prints "Hello, World!" to the screen.
