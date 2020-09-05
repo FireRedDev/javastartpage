@@ -13,8 +13,8 @@ Modern Java Applications actually dont need you to have Java installed though, t
 # Try programming with Java
 
 ## In the Browser
-https://www.codiva.io/ Codiva is an online compiler and IDE for C, C++ and Java.
-https://www.jdoodle.com/online-java-compiler/
+<https://www.codiva.io/> Codiva is an online compiler and IDE for C, C++ and Java.
+<https://www.jdoodle.com/online-java-compiler/>
 
 # With programms
 ## Visual Studio Code
@@ -74,7 +74,8 @@ println is a method of out that can be used to print a line.
 Print "Hello, World!" to the console.
 
 ## Learn More
-https://www.learnjavaonline.org/
+
+<https://www.learnjavaonline.org/>
 ---
 ## Build Systems
 ### Maven
