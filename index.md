@@ -95,8 +95,6 @@ Print "Hello, World!" to the console.
 <https://maven.apache.org/>
 Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
 
-
-This site is separated into the following sections, depending on how you'd like to use Maven:
 ### Gradle
 ![alt text](https://cdn.iconscout.com/icon/free/png-256/gradle-1-285287.png "Logo Title Text 1")
 
