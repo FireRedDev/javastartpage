@@ -235,7 +235,7 @@ This website is built via Github Pages and Markdown.
 
 ## Disclaimer
 
-This website is just a hobby project to give new java devs a starting point. Java is a registered Trademark of Oracle. I do not own, work at, or develop any of the Software or technology mentioned. Accuracy is not garuanteed. 
+This website is just a hobby project to give new java devs a starting point and to show how even a pretty lightweight java startpage would be better than no website at all. Java is a registered Trademark of Oracle. I do not own, work at, or develop any of the Software or technology mentioned. Accurracy is not garuanteed. 
 
 
 
