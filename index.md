@@ -7,7 +7,8 @@ Java is a programming language and computing platform first released by Sun Micr
 Unlike Windows executables (.EXE files) or Macintosh applications (.APP files), Java programs are not run directly by the operating system. Instead, Java programs are interpreted by the Java Virtual Machine, or JVM, which runs on multiple platforms. This means all Java programs are multiplatform and can run on different platforms, including Macintosh, Windows, and Unix computers. Java is either run by .JAR Files, as a bundled JRE or can create native wrappers with GraalVM like .EXE and .APP for each operating system.
 
 # Is Java free to download?
-Yes, Java is free to download. Get the latest version at java.com.
+
+Yes, Java is free to download. Get the latest version at <https://java.com>. 
 Modern Java Applications actually dont need you to have Java installed though, they bundle everything with the application you are using. 
 ---
 # Try programming with Java
