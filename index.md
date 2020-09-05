@@ -18,7 +18,7 @@ Modern Java Applications actually dont need you to have Java installed though, t
 
 <https://www.jdoodle.com/online-java-compiler/>
 
-# With programms
+# With developement software
 ## Visual Studio Code
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png)
 
