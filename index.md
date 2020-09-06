@@ -231,7 +231,7 @@ This website is built via Github Pages and Markdown.
 <https://github.com/FireRedDev/javastartpage/>
 
 ## Report a Java Bug
-<https://bugreport.java.com/bugreport/
+<https://bugreport.java.com/bugreport/>
 
 ### Repository of OpenJDK
 <https://github.com/openjdk/jdk>
