@@ -228,8 +228,10 @@ Spring Boot/microservices
 
 ### Repository of this webpage
 This website is built via Github Pages and Markdown.
+<https://github.com/FireRedDev/javastartpage/>
 
-<https://firereddev.github.io/javastartpage/>
+## Report a Java Bug
+<https://bugreport.java.com/bugreport/
 
 ### Repository of OpenJDK
 <https://github.com/openjdk/jdk>
@@ -238,6 +240,5 @@ This website is built via Github Pages and Markdown.
 
 This website is just a hobby project to give new java devs a starting point and to show how even a pretty lightweight java startpage would be better than no website at all. Java is a registered Trademark of Oracle. I do not own, work at, or develop any of the Software or technology mentioned. Accurracy is not garuanteed. 
 
-
-
+>
 
